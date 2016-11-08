@@ -3,7 +3,7 @@ Panagiotis Sarantopoulos
 John Smith
 
 Title:
-SOA measurements in the laboratory
+Measurement and simulations of SOA in a chamber
 
 Introduction:
 We investigate formation of SOA from apinene in a laboratory.
