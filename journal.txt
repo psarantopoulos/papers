@@ -3,7 +3,7 @@ Panagiotis Sarantopoulos
 John Smith
 
 Title:
-Simulations using John's awesome model
+SOA measurements in the laboratory
 
 Introduction:
 We investigate formation of SOA from apinene in a laboratory.
