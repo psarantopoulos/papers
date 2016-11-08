@@ -11,3 +11,6 @@ Some work has already been done on this (Capes et al 2016).
 
 Methodology:
 We used some instruments to measure things (Allen et al 2004).
+
+Conclusion:
+We concluded!!
