@@ -1,9 +1,10 @@
 Author:
 Panagiotis Sarantopoulos
+John Smith
 
 Title:
-Chamber measurements of SOA
+Chamber measurements and simulations of SOA
 
 Introduction:
 We investigate formation of SOA from apinene in a laboratory.
-Some work has already been done on this (Capet et al 2016).
+Some work has already been done on this (Capes et al 2016).
