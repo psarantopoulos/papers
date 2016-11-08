@@ -14,3 +14,6 @@ We used some instruments to measure things (Allen et al 2004).
 
 Results:
 We saw that particles formed the chamber. John modelled them.
+
+Acknowledgements:
+We are very very grateful for the EU funding that we may never see again.
