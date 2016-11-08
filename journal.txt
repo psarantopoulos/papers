@@ -6,3 +6,4 @@ Chamber measurements of SOA
 
 Introduction:
 We investigate formation of SOA from apinene in a laboratory.
+Some work has already been done on this (Capet et al 2016).
